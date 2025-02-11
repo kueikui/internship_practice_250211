@@ -1,1 +1,5 @@
 # internship_practice_250211
+
+給學姊demo
+結果發現編輯時primarykey應該是要是不可以編輯的，所以下午都在研究怎麼讓account的enable可以設為false
+但一直沒有辦法成功
